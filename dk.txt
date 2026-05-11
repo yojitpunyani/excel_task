@@ -5,3 +5,4 @@ yellow
 pink
 orange
 
+turquiose
