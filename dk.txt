@@ -1,4 +1,5 @@
-momo 
-gulab 
-samosa 
-chutney
+red
+green
+blue 
+yellow 
+pink
